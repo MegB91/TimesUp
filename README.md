@@ -9,7 +9,8 @@ This is my coding project using PyCharm IDE in Python.
 Project is created with:
 * PyCharm version 2026.2.3
 * Python 
-* Tkinter
+* Tkinter library
+* Keyboard library
   
 ## Setup
 To run this project, install it locally using npm:

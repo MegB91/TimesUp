@@ -7,7 +7,7 @@ This is my coding project using PyCharm IDE in Python.
 	
 ## Technologies
 Project is created with:
-* PyCharm version
+* PyCharm version 2026.2.3
 * Python 
 * Tkinter
   
